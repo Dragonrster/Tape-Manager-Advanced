@@ -37,7 +37,7 @@
 
 ### 安装
 ```bash
-git clone https://github.com/你的用户名/tape-manager-advanced.git
+git clone https://github.com/Dragonrster/tape-manager-advanced.git
 cd tape-manager-advanced
 chmod +x tape_manager_advanced.sh
 ```
@@ -121,7 +121,7 @@ Tape Manager Advanced is a Bash-based tape backup tool with a TUI (text-based me
 
 ### Installation
 ```bash
-git clone https://github.com/your-username/tape-manager-advanced.git
+git clone https://github.com/Dragonrster/tape-manager-advanced.git
 cd tape-manager-advanced
 chmod +x tape_manager_advanced.sh
 ```
